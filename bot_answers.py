@@ -1,0 +1,6 @@
+TOKEN_INPUT_PROMPT: str = "Enter bot token: " 
+PIN_INPUT_PROMPT:   str = "Set PIN: "
+GUARD_ANSWER_PIN:   str = "Enter PIN."
+GUARD_ANSWER_ERROR: str = "Access error. Invalid PIN. Try again."
+START_ANSWER:       str = "Hello, <b>{}!</b>. Send me a link to a youtube video. And I will send the audio from this video."
+INVALID_LINK:       str = "Sorry, the link is invalid or the video is not available. Try again."
